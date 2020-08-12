@@ -1,0 +1,13 @@
+#digitalClock {
+  font-size: 4px;
+  width:10%;
+  height:30px;
+  margin-left:0.6%;
+  font-family:"vinetabt",tahoma,serif;
+  font-size:30px;
+  font-variant:small-caps;
+  font-weight:800;
+  font-style:normal;
+  color:cyan;
+  text-shadow: 2px 2px 4px black, 10px 10px 25px green,9px 4px 5px  darkblue;
+}
